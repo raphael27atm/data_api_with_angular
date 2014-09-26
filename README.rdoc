@@ -1,0 +1,8 @@
+== README
+
+Aplicação simples unsando angular puxando dados da API do DRIBBBLE.
+
+* Angular
+
+* twitter bootstrap
+
