@@ -1,6 +1,6 @@
 == README
 
-Aplicação simples unsando angular puxando dados da API do DRIBBBLE.
+Aplicação simples usando angular puxando dados da API do DRIBBBLE.
 
 * Angular
 
